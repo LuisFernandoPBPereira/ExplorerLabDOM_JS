@@ -1,4 +1,5 @@
 import "./css/index.css"
+import "./css/animation.css"
 import IMask from "imask"
 
 //Buscando itens
