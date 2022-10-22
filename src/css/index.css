@@ -9,6 +9,8 @@
 
   body {
     background: #202024;
+    margin: 0;
+    overflow: hidden;
   }
 
   #app {
